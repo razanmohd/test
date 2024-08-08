@@ -1,0 +1,65 @@
+*{
+    
+}
+
+#signup{
+    background-color: orange;
+    color: white;
+}
+
+.banner{
+    position: absolute;
+    bottom: 350px;
+    margin-left: 250px;
+}
+
+#getstarted{
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: 0;
+}
+
+#learnmore{
+    color: orange;
+    text-decoration: none;
+}
+
+.about{
+    display: flex;
+}
+
+#keyboard{
+    border-radius: 80%;
+}
+
+.ab{
+    margin-left: 250px;
+}
+
+.ab h6{
+    text-decoration: underline darkgoldenrod;
+    font-weight: 300;
+}
+
+.out{
+    margin-right: 100px;
+}
+
+.abo{
+    display: flex;
+}
+
+.ac img{
+    border-radius: 50%;
+    margin-left: 100px;
+}
+
+.bc{
+   margin-left: 50px;
+}
+
+
+
+
+
